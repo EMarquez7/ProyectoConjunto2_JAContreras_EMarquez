@@ -1,7 +1,6 @@
-# **Simulation Processes**
-## **Python Exercises** <br>
----
-### **Description**:
+## Python Exercises
+
+### Objective:
 This repository contains the 2° assignment of the Simulation Processes course in [ITESO](https://www.topuniversities.com/universities/iteso-universidad-jesuita-de-guadalajara) Bachelor of Financial Engineering.
 it contains 6 relatively simple exercises in which lists comprehensions, dictionaries, (anonymous) functions, loops, conditionals and other concepts are used to solve the problems.
 
@@ -21,14 +20,20 @@ it contains 6 relatively simple exercises in which lists comprehensions, diction
 ##### License:&nbsp;[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 </Details>
-<br>
 
 ##### Work Contact: 
+<font>
+<Details>
+<Summary> <b>Click to expand</b> </Summary>
 
 [![Website](https://img.shields.io/badge/Website-ffffff?style=square&logo=opera&logoColor=red)](https://estebanmqz.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-041a80?style=square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esteban-m65381722210212839/) [![Portfolio](https://img.shields.io/badge/Github-Portfolio-010b38?style=square&logo=github&logoColor=black)](https://estebanmqz.github.io/Portfolio/) [![E-mail](https://img.shields.io/badge/Business-Mail-052ce6?style=square&logo=mail&logoColor=white)](mailto:esteban@esteban.com)
 <br>
 
-![GitHub Logo](https://github.com/EstebanMqz.png?size=50) [![Github](https://img.shields.io/badge/Github-000000?style=square&logo=github&logoColor=white)](https://github.com/EstebanMqz) 
+![GitHub Logo](https://github.com/EstebanMqz.png?size=50) [![Github](https://img.shields.io/badge/Github-000000?style=square&logo=github&logoColor=white)](https://github.com/EstebanMqz)<br><br>
+
+[jancope](https://github.com/jancope)[![Github](https://img.shields.io/badge/Github-000000?style=square&logo=github&logoColor=white)](https://github.com/jancope)
+
+</Details>
 
 ##### **Diagram:**
 [![Repository](https://img.shields.io/badge/Repository-0089D6?style=square&logo=microsoft-azure&logoColor=white)](https://mango-dune-07a8b7110.1.azurestaticapps.net/?repo=EstebanMqz%2FBasic-Ex.2)
